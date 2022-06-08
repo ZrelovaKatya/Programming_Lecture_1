@@ -1,0 +1,15 @@
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture_1\Example001_Hello_world\bin\Debug\net6.0\Example001_Hello_world.exe
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture_1\Example001_Hello_world\bin\Debug\net6.0\Example001_Hello_world.deps.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture_1\Example001_Hello_world\bin\Debug\net6.0\Example001_Hello_world.runtimeconfig.json
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture_1\Example001_Hello_world\bin\Debug\net6.0\Example001_Hello_world.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture_1\Example001_Hello_world\bin\Debug\net6.0\Example001_Hello_world.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture_1\Example001_Hello_world\obj\Debug\net6.0\Example001_Hello_world.csproj.AssemblyReference.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture_1\Example001_Hello_world\obj\Debug\net6.0\Example001_Hello_world.GeneratedMSBuildEditorConfig.editorconfig
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture_1\Example001_Hello_world\obj\Debug\net6.0\Example001_Hello_world.AssemblyInfoInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture_1\Example001_Hello_world\obj\Debug\net6.0\Example001_Hello_world.AssemblyInfo.cs
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture_1\Example001_Hello_world\obj\Debug\net6.0\Example001_Hello_world.csproj.CoreCompileInputs.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture_1\Example001_Hello_world\obj\Debug\net6.0\Example001_Hello_world.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture_1\Example001_Hello_world\obj\Debug\net6.0\refint\Example001_Hello_world.dll
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture_1\Example001_Hello_world\obj\Debug\net6.0\Example001_Hello_world.pdb
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture_1\Example001_Hello_world\obj\Debug\net6.0\Example001_Hello_world.genruntimeconfig.cache
+\\mstm1bdfs01\mst-home\MOW01\Home2\zreloe1\Desktop\Lecture_1\Example001_Hello_world\obj\Debug\net6.0\ref\Example001_Hello_world.dll
